@@ -1,1 +1,1 @@
-console.log('Hello KDU trainers')
+console.log('Hello all the KDU trainers')
